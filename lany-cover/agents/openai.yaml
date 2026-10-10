@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany Cover"
+  short_description: "用用户头像 IP 生成咨询报告式个人封面"
+  default_prompt: "使用 $lany-cover 读取当前文章，以用户确认头像为角色真源，生成咨询报告视觉的个人 IP 封面。"

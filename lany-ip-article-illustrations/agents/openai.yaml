@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany IP 文章插图"
+  short_description: "读取长文并生成默认白底的小生正文配图"
+  default_prompt: "使用 $lany-ip-article-illustrations 读取当前 Markdown，以用户确认的头像为唯一角色真源，生成默认白色背景的咨询报告式正文配图。"
