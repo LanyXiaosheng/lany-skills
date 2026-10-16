@@ -12,8 +12,8 @@ Lany 小生的个人视觉 IP 以当前像素头像为人物身份基准，各�
 | `$lany-banner` | X 主页横幅和安全区预览 |
 | `$lany-cover` | X 长文、帖子与公众号封面 |
 | `$lany-ip-article-illustrations` | 有明确正文锚点的小生插画 |
-| `$lany-infographics` | 流程、关系、概念和对比信息图 |
-| `$lany-data-charts` | 真实数据图表、动态数据画面与简报 |
+| [`$lany-infographics`](lany-infographics/README.md) | 流程、关系、概念和对比信息图，含示例与提示词 |
+| [`$lany-data-charts`](lany-data-charts/README.md) | 真实数据图表、动态数据画面与简报，含示例与提示词 |
 | `$lany-typography-prompts` | 中文标题字形与字效的可复用生图提示词 |
 
 例如：`使用 $lany-banner，以我当前头像为身份参考，制作 X 主页横幅。`
