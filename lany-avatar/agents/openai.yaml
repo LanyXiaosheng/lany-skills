@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany 头像"
+  short_description: "精修固定像素小生头像并沉淀 Style DNA"
+  default_prompt: "使用 $lany-avatar 以当前确认头像为身份参考，制作适合 X 圆形裁切的个人 IP 头像。"

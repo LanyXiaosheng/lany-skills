@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany 信息图"
+  short_description: "把文章和复杂概念变成品牌一致的信息图"
+  default_prompt: "使用 $lany-infographics 把这段内容做成一张可编辑、适合 X 长文的解释图。"

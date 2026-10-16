@@ -1,0 +1,4 @@
+interface:
+  display_name: "Lany 主页 Banner"
+  short_description: "沿用像素小生身份制作 X 主页横幅"
+  default_prompt: "使用 $lany-banner 以当前头像和品牌视觉制作 X 主页 Banner，并检查头像遮挡区。"
